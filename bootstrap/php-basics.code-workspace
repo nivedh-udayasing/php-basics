@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../../../xampp/htdocs/demo"
+	},
+	{
+		"path": "../../../Html/betasquirrel-nivedh-tasks"
+	},
+	{
+		"path": "../../../Html/exercise-html"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "php-basics"
+  }
+}
